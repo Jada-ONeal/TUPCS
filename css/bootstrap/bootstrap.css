@@ -8,7 +8,7 @@
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #7971ea;
-  --pink: #e83e8c;
+  --pink: #f38181;
   --red: #f23a2e;
   --orange: #ef6c57;
   --yellow: #f89d13;
@@ -26,6 +26,7 @@
   --danger: #f23a2e;
   --light: #f8f9fa;
   --dark: #343a40;
+  --logo-green: #A1BF69;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -420,7 +421,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: #8bc34a;
   word-break: break-word; }
   a > code {
     color: inherit; }
